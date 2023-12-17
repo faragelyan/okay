@@ -1,8 +1,9 @@
 #include<iostream>
 using namespace std;
-int multii(int a, int b)
+//int multi
+int sumi(int a, int b)
 {
-    return a*b;
+    return a+b;
 }
 int main()
 {

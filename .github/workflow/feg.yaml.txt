@@ -1,0 +1,9 @@
+name: feg_flow
+on: push
+jobs: 
+  job1:
+    runs-on: ubunto-latest
+    steps: 
+        name: print 1
+        run: echo "hello"
+
